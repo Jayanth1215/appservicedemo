@@ -7,7 +7,6 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: azure-core
-
   AZURE_WEBAPP_PATH: '.'
   DOTNET_VERSION: '3.1.417'
 
